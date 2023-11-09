@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Introduction
 
-This analysis is performed on students data gathered from several schools including public and charter schools. These schools budget is also included in data to undrestand its effect on students performance. Students reading and math scores are gathered in the data file as a measure of success for the school.
+This analysis is performed on student data gathered from several schools including public and charter schools. These schools' budget is also included in the data to understand their effect on students' performance. Students reading and math scores are gathered in the data file as a measure of success for the school.
 
 ## Analysis and Results
 
